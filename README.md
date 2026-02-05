@@ -7,17 +7,17 @@
 
 ### “Torture the data, and it will confess to anything.” – By Ronald Coase
 
-✨ About Me in 30 secs✨
+✨ About Me in 30 Seconds ✨
 
-👀 I love telling stories with data and that's what I do for a living.And my goal to any oranization is to turn data into information, and information into insight.
+I am a results-driven Senior Data Engineer with over seven years of experience designing and delivering scalable data solutions that transform raw data into actionable business insights. I am passionate about leveraging data storytelling to help organizations make informed, strategic decisions and unlock measurable value from their data assets.
 
-💉 I have a strong software engineering background and I transitioned into Data Analytics since 2015.
+With a strong foundation in software engineering, I transitioned into data engineering and analytics in 2016, bringing a structured, performance-focused, and solution-oriented approach to building modern data platforms.
 
-📊 I obtained PgDip in Data Science & Business Analyticse in June 2015
+I specialize in building and optimizing end-to-end data pipelines using modern cloud and big data technologies including Azure Databricks, Snowflake, Microsoft Azure, AWS, Python, and PySpark. My experience spans data warehousing, ETL/ELT development, data transformation, data quality management, and scalable data architecture design.
 
-📉 I am very excited about using cutting-edge data egineering technologies to unlock the potential of data in any business environment. I have industry experience in SQL, Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development, data warehouse, Snowflake, Azure data factory, AWS S3, ETL and python programming.
+I am particularly enthusiastic about applying cutting-edge data engineering technologies to deliver reliable, high-performance data ecosystems that support analytics, reporting, and advanced data-driven initiatives across diverse business environments.
 
-📫 How to find me: [LinkedIn](https://www.linkedin.com/in/godwill-nelson-ukaegbu/).
+📫 How to find me: [LinkedIn](https://www.linkedin.com/in/mark-ogba-pmp-csm-35916a239/).
 
  
 ### 🧰 Tech Stack
@@ -51,9 +51,8 @@
 
 ## 📚Courses and Certifications📚
 
--	Microsoft Certified Solutions Associate (MCSA)- Microsoft SQL Server  2012/2014
+-	Databricks Certified DataEngineer Professional 
 -	Microsoft Certified: Power BI Data Analyst Associate
--	Certified IBM Data Science Professional
 
  
 
